@@ -1,4 +1,2 @@
 User-agent: *
-Disallow: /1.html
-Disallow: /2.html
-Sitemap: https://groups.ga/sitemap.xml
+Sitemap: https://torrental.tk/sitemap.xml
